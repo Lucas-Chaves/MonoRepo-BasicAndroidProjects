@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="lets_begin">Vamos começar ?</string>
+    <string name="whats_your_name">Qual seu nome ?</string>
+    <string name="save">Salvar</string>
+    <string name="name_to_continue">Digite um nome para continuar</string>
+</resources>

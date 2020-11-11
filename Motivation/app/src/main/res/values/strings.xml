@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="lets_begin">Vamos começar ?</string>
+    <string name="whats_your_name">Qual seu nome ?</string>
+    <string name="save">Salvar</string>
+    <string name="name_to_continue">Digite um nome para continuar</string>
+    <string name="infinite">infinite</string>
+    <string name="happy">happy</string>
+    <string name="sun">sun</string>
+</resources>
