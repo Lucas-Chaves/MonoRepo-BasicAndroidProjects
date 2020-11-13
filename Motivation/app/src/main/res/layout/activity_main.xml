@@ -54,7 +54,7 @@
         android:layout_below="@id/linearMenu"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:text="Hello World"
+        android:text=""
         android:textSize="18sp" />
 
     <TextView
@@ -64,17 +64,19 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_marginTop="32dp"
-        android:text="Frase"
+        android:padding="16dp"
+        android:text=""
+        android:textAlignment="center"
         android:textSize="22sp" />
 
     <View
         android:layout_width="128dp"
         android:layout_height="3dp"
         android:layout_below="@id/txtPhrase"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:background="@color/colorAccent"
-        android:layout_centerHorizontal="true" />
-    
+        android:background="@color/colorAccent" />
+
     <Button
         android:id="@+id/btnNewPhrase"
         android:layout_width="wrap_content"
@@ -82,11 +84,11 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:padding="8dp"
+        android:background="@drawable/ripple_btn"
         android:backgroundTint="@color/colorPrimary"
-        android:textColor="@color/white"
-        android:background="@drawable/bnt_rounded"
-        android:text="Nova frase"/>
-    
+        android:padding="8dp"
+        android:text="@string/new_phrase"
+        android:textColor="@color/white" />
+
 
 </RelativeLayout>

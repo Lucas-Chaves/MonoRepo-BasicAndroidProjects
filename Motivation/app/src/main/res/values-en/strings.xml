@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="whats_your_name">What\'s your name?</string>
+    <string name="save">Save</string>
+    <string name="lets_begin">Let\'s get started?</string>
+
+
+
+    <string name="app_name">Motivation</string>
+    <string name="name_to_continue">Enter a name to continue</string>
+    <string name="infinite">infinite</string>
+    <string name="happy">happy</string>
+    <string name="sun">sun</string>
+    <string name="new_phrase">New phrase</string>
+    <string name="hello">Hello,  %1$s !</string>
+</resources>

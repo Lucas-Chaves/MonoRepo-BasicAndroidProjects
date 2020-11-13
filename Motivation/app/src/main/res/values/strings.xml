@@ -7,4 +7,6 @@
     <string name="infinite">infinite</string>
     <string name="happy">happy</string>
     <string name="sun">sun</string>
+    <string name="new_phrase">Nova frase</string>
+    <string name="hello">Olá,  %1$s !</string>
 </resources>
